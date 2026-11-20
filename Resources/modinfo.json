@@ -3,7 +3,7 @@
   "DisplayName": "Match Replays",
   "Authors": [ "Curtis", "VoidBehemoth", "AlchlcSystm", "Loonie" ],
   "Description": "Records replays of your games that can be rewatched live in-game. Control your replays with features such as speeding up in-game time, revealing all Roles and pausing the replay.",
-  "Version": "1.3.1",
+  "Version": "1.4.0",
   "Settings":
   {
     "DropdownSettings":
