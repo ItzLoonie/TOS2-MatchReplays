@@ -14,3 +14,6 @@ This is more or less that.
 
 ### Warning
 Match Replays made before this update will not show at all.
+
+### Notes
+Yeah I know the source is a mess, what do you expect from decompilation?
